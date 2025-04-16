@@ -54,7 +54,7 @@ Done! The bot will start listening for commands.
 
 `/post` — generate a post on a random topic (e.g., Space, AI, Health, etc.)
 
-Optional: you can easily extend it to accept a custom topic with `/post topic`.
+Optional: you can easily extend it to accept a custom topic in topics.txt.
 
 ---
 

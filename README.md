@@ -82,7 +82,7 @@ my_bot/
 
 ## 📜 License
 
-[MIT License](MIT) — free to use, adapt, and improve 🤘
+[MIT License](LICENSE) — free to use, adapt, and improve 🤘
 
 ---
 

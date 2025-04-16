@@ -28,7 +28,7 @@ A Telegram bot that generates themed posts (text + image) using the [Gemini API 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourname/telegram-content-bot.git
+git clone https://github.com/serejekee/echogem.git
 cd telegram-content-bot
 ```
 

@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  telegram-bot:
+    build: .
+    container_name: gimini-bot
+    restart: unless-stopped
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+    volumes:
+      - .:/app
+    working_dir: /app
